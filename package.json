@@ -1,0 +1,25 @@
+{
+  "name": "@digitalchina/mimic",
+  "version": "0.0.1",
+  "description": "an enterprise level frontend toolkit lib",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitalchina-frontend/mimic.git"
+  },
+  "keywords": [
+    "toolkit",
+    "utils",
+    "utility",
+    "javascript-lib"
+  ],
+  "author": "Fan YiJie <8203056@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/digitalchina-frontend/mimic/issues"
+  },
+  "homepage": "https://github.com/digitalchina-frontend/mimic#readme"
+}
