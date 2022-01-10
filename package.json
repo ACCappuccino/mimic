@@ -1,5 +1,5 @@
 {
-  "name": "@digitalchina/mimic",
+  "name": "@digitalchina-frontend/mimic",
   "version": "0.0.1",
   "description": "an enterprise level frontend toolkit lib",
   "main": "src/index.js",
